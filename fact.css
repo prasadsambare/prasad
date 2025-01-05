@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+} 
+
+#bt{
+    background-color: rgb(236, 176, 11); 
+    color: black; 
+height: 3rem; 
+    width: 50%; 
+    margin-left: 250px; 
+    border-radius: 10px; 
+    border-style:solid;
+    
+    
+}  
+
+h1{
+    text-align: center;
+} 
+
+p{
+    text-align: center;
+}
